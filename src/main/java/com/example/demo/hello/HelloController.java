@@ -8,6 +8,7 @@ public class HelloController {
 
 	@RequestMapping("/hello")
 	public String sayHi(){
+<<<<<<< Updated upstream
 		return "Hi wel come to keshavs world";
 		
 	}
@@ -15,3 +16,8 @@ public class HelloController {
 
 //venkatesh
 //htdfkugfdht
+=======
+		return "Hi";
+	}
+}
+//sandeep
