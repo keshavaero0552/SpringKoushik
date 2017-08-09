@@ -19,5 +19,8 @@ public class Sum {
 
     public static void runnning() {
         System.out.println("printing deductions");
+
+    public static void walking() {
+        System.out.println("printing this method");
     }
 }
