@@ -8,16 +8,9 @@ public class HelloController {
 
 	@RequestMapping("/hello")
 	public String sayHi(){
-<<<<<<< Updated upstream
-		return "Hi wel come to keshavs world";
+		return "Hi";
 		
 	}
 }
 
 //venkatesh
-//htdfkugfdht
-=======
-		return "Hi";
-	}
-}
-//sandeep
